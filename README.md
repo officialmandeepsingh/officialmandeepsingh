@@ -10,4 +10,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=officialmandeepsingh&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=officialmandeepsingh&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
